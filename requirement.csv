@@ -1,0 +1,155 @@
+﻿doc_id,req_id,req
+DA-1,R01,User submit job associate deadline cost execution time
+DA-1,R02,User query  cluster establish cost unit time submit job
+DA-1,R03,User monitors status submit job
+DA-1,R04,User cancels job submit
+DA-1,R05,User checks credit balance
+DA-1,R06,User checks usage history 
+DA-1,R07,User checks status node cluster
+DA-1,R08,User checks usage pattern history cluster
+DA-1,R09,User checks status submit job
+DA-1,R10,User checks load node cluster
+DA-1,R11,User alters cost structure cluster
+DA-1,R12,User alters schedule policy cluster
+DA-1,R13,User takes a photo of a new student
+DA-1,R14,The development process will follow Rational Unified Process (RUP) approach.
+DA-1,R15,The SDMS will be developed under waterfall process model.
+DA-1,R16,The objective of the project is to develop a meeting scheduler product through an organized routine which allows us to concentrate on core elements at different phases more easily and efficiently.
+DA-1,R17,The web tier deals with the presentation logic and the pages  rendering
+DA-1,R18,"The EIS tier is responsible for storing user profiles, and ride advertisements."
+DA-1,R19,Runtime Pattern is applied.
+DA-1,R20,Development is done on an extra application server
+DA-1,R21,Application is deployed into 2 application servers working in a cluster. (4 in the future)
+DA-1,R22,Application servers are IBM servers running Jboss Application Server
+DA-1,R23,Database server is IBM server running MySQL server.
+DA-1,R24,All application servers and Database server have redundancy using mirroring RAID mode.
+DA-1,R25,Workstations run Linux and use Eclipse platform for development.
+DA-2,R1,The system administrator must be able to deactivate and reactivate student account login
+DA-2,R2,The system administrator must be able to force the sending of a new password to a student via email
+DA-2,R3,The system administrator must be able to change any of a student's details
+DA-2,R4,Student can be register on the system and fill in all detail and forward to choose project/supervisor
+DA-2,R5,Student can change detail if information is incorrect such as telephone number
+DA-2,R6,Student can change his login password at any time for security reason
+DA-2,R7,Student can request his password if he/she forgotten the password
+DA-2,R8,All staff can view the details of any student
+DA-2,R9,Certain staff may be designated as Unit or Cohort Co-ordinators and can change the details of any student doing their unit or project cohort
+DA-2,R10,Unit Cohort co-ordinator can change student detail for incorrect information
+DA-2,R11,Unit Cohort co-ordinator can view student information and monitor their progress
+DA-2,R12,Unit Cohort co-ordinator can all list employee who request a personal development program
+DA-2,R13,Unit Cohort co-ordinator can reset the student's password if required
+DA-2,R14,System Administrator can backup the mail server of course registration regularly
+DA-2,R15,System Administrator can reset the student's password if required
+DA-2,R16,Administration Staff can create a monthly accounting report
+DA-2,R17,Administration Staff can make a school announcement
+DA-2,R18,"This model encompasses the following activities: system engineering, requirement analysis, software design, implementation, and testing. The requirement analysis will be highly emphasized"
+DA-2,R19,The SDMS will be developed under waterfall process model.
+DA-2,R20,"The team consists of 7 members, and each member will be involved in a sub-phase of the project as a team leader. "
+DA-2,R21,Team Crutch is developing a software application for Android cell phones that will mitigate the communication barriers faced by people with these deficiencies. 
+DA-2,R22,Constant involvement of end users/beta users and developers to continuously monitor and find out the requirement gap. 
+DA-2,R23,Be careful of “scope creep” which are uncontrolled changes.  Most large projects fall victim to scope creep. Scope creep often results in cost overrun.
+DA-2,R24,The design pattern used to create the CPSS is the MVC (Model View Controller) design pattern.  
+DA-2,R25,The MVC design patter clearly separated the web application’s behavior  presentation and control.  
+DA-3,R1,The archive administrator can create a new client space.
+DA-3,R2,The client administrator can manage roles for its client.
+DA-3,R3,The archive administrator cannot access documents.
+DA-3,R4,The client administrator can view all roles.
+DA-3,R5,The client administrator canï¿½t read the contents of documents.
+DA-3,R6,The client administrator cannot be deleted.
+DA-3,R7,An end user can have multiple roles at the same time.
+DA-3,R8,Each end user has a person role.
+DA-3,R9,Only authenticated end users at the client server can access (as phrased in URCAR 45-48 and URCAR50) the document space.
+DA-3,R10,End user cannot access (as phrased in URCAR 45-48 and URCAR50) the document spaces of other clients.
+DA-3,R11,An end user can view assigned rights that are assigned to his role.
+DA-3,R12,Each role is managed by at most one other role.
+DA-3,R13,Each role inherits all static rights from the roles it manages.
+DA-3,R14,Each role has a set (possibly empty) of person roles assigned to it.
+DA-3,R15,Each role owns a set of documents in the SDA.
+DA-3,R16,Each role has a set of rights assigned to it.
+DA-3,R17,The archive administrator can limit the available client space.
+DA-3,R18,A role canï¿½t be deleted when there exists documents that are owned by that role.
+DA-3,R19,An end user can for a predefined period of time delegate a role to another person role.
+DA-3,R20,A role has a log in which the assignment of rights and the expiration of rights are logged.
+DA-3,R21,A role has a log in which delegations and the expiration of delegations are logged.
+DA-3,R22,A role can have the right to assign a role-right to a subordinate role.
+DA-3,R23,A role can have the right to remove a role-right from a subordinate role.
+DA-3,R24,A role can have the right to create subordinate roles.
+DA-3,R25,Any role has the right to read (view) all roles.
+DA-3,R26,A role can have the right to update subordinate roles.
+DA-3,R27,A role can have the right to delete subordinate roles.
+DA-3,R28,A role cannot be deleted when it manages subordinate roles.
+DA-3,R29,A role can have the right to couple a person role to a subordinate role.
+DA-3,R30,A role can have the right to decouple a person role from a subordinate role.
+DA-3,R31,A role can have the right to assign a document right of a document he owns to another role.
+DA-3,R32,A role can have the right to take a document right of a document he owns from another role.
+DA-3,R33,A role can upload files into the document space associated with that role.
+DA-3,R34,A role can download files from the document space associated with that role.
+DA-3,R35,A role with the update right can update files in the document space associated with that role.
+DA-3,R36,A role with the delete right can delete files in the document space associated with that role.
+DA-3,R37,Each document in the SDA is owned by exactly one role.
+DA-3,R38,A role that owns a document can hand over that ownership to another role.
+DA-3,R39,A user can start chating with other user by clicking on the chat menu
+DA-3,R40,Documentation will also be updated after each meeting. Team leader can adjust the weekly goals by checking the progress of each subphase to ensure the subphase will meet the requirements and be deliverable on time.
+DA-3,R41,Software Documentation. UML Documentation: Rational Rose. Project Documents: Microsoft Office
+DA-3,R42,Added the project overview and project organization.
+DA-3,R43,The design pattern used to create the CPSS is the MVC (Model View Controller) design pattern.  
+DA-3,R44,The MVC design patter clearly separated the web application’s behavior  presentation and control.  
+DA-3,R45,"The business tier deals with the core functionalities of the system. (Search, post, match rides, manage profiles)"
+DA-3,R46,"The EIS tier is responsible for storing user profiles, and ride advertisements."
+DA-3,R47,Runtime Pattern is applied.
+DA-3,R48,After deployment the development server fails. Use one of the operational servers if urgent until problem is fixed
+DA-3,R49,One of the operational servers fails . The two deployment servers will be the replacements of each other
+DA-3,R50,Any of the development workstations fail. There are 3 spare workstations in case of workstation failure.
+DA-4,R1,User can see detailed information about SGP
+DA-4,R2,User can apply for SGP
+DA-4,R3,User can application update form for SGP
+DA-4,R4,User can update personal data
+DA-4,R5,User can upload application related documents
+DA-4,R6,User can take english proficiency test
+DA-4,R7,Added the project overview and project organization.
+DA-4,R8,"Edited document template, project organization, and “Work Elements, Schedule, and Budget”."
+DA-4,R9,Edited the project organization and managerial process. The document template was also revised.
+DA-4,R10,Added 3.3 Risk Management section.
+DA-4,R11,The design pattern used to create the CPSS is the MVC (Model View Controller) design pattern.  
+DA-4,R12,The MVC design patter clearly separated the web application’s behavior  presentation and control.  
+DA-5,R1,"The system supports (but does not require) streamlined staff login methods, for example staff member swipes a card to log into a terminal or the staff member logs into a terminal by using his/her individual login and password."
+DA-5,R2,"System administrators can create reliable report templates that are available to staff, and can be run as is or modified to the staff person's particular needs. Changes in the templates could be done without comprising the results. The administrator can limit the filters and display fields that can be altered to certify a dependable output. For example, front-line staff could set the call number range for a weeding report or add or remove designated display fields from a pick list, but couldn’t alter the template to display deleted items."
+DA-5,R3,"System provides distinct, fine-grained permission levels limiting who can create and clone reports. All permissions should be easy to administer. System administrators can create shared folders to allow or disallow staff to run specific reports, and/or to run ad hoc reports on specific sets of data."
+DA-5,R4,"System provides a user-friendly interface for designing queries against all record types. Staff can select fields to query select values from picklist of possible values select regular expressions from drop-down menu, and use a full range of Boolean operators. Administrators control staff access to tables and fields."
+DA-5,R5,"The system provides pre-defined reports for consumption by library boards or other consumers. There will be reports providing basic statistics like those required by the Georgia Annual Report and Application for State Aid and activity reports that indicate traffic and volume of use that display statistics on check-outs, check-ins, holds placed, and holds filled. It should be possible cross-tabulated per terminal, per branch, per library system, per hour, per patron age range, per patron type, and per patron location."
+DA-5,R6,"Transactions are archived in a form that protects patron privacy as defined by State Law, while providing useful demographic statistics."
+DA-5,R7,Examples of periodic reports: bibliographic records with holds items that have not been checked out in X days item-level holds items with invalid item type in-transit items with outstanding hold items that have been in-transit for more than X days items that are the last copy in thesystem items with a long call number missing items bibliographic records with no item records patrons with invalid home library.
+DA-5,R8,System provides the query selections along with the results.
+DA-5,R9,Ability to see where your report is in the queue of reports waiting to run.
+DA-5,R10,System must be able to support the reporting definitions as described in Appendix A.
+DA-5,R11,System must be able to support the fine-grained reports requirements as described in Appendix B.
+DA-5,R12,"The system produces statistics that can be used to understand and predict patron behavior and use of materials. For example, how quickly is a particular book returned, on average? How likely is a particular book to be renewed? What percent of check-outs at a particular branch are renewals?"
+DA-5,R13,"Ability to report on the volume of material in a given library at any point in time, based on new acquisitions, items on the shelf, and items out in circulation, with the ability to break down volume in categories (e.g. total items in library, number of holds, number of adult fiction, number of board books, etc)."
+DA-5,R14,The system provides an interface showing capacity of all branches (as defined in PINES-014).
+DA-5,R15,"For each genre and format of material, ability to compare the percentage of total circulations, the percentage of the collection, and the percentage of total shelf space that genre/format comprises. Ability to report per library and per system."
+DA-5,R16,"Ability to control inventory of uncataloged material, such as paperback books and children's board books. Support for quick distribution minimal branch labor and ability to identify how the material is being used. Ability to count transactions and include in circulation statistics and reports."
+DA-5,R17,"System provides a utility for transferring batches of items between branches, used for example to move books into a mobile library, an outreach program collection, or a ""just-in-time"" warehouse. Utility includes ability to query for candidate materials ability to save queries for repeated use ability to manually select titles from query results and ability to change records of all or selected items to move to new location. Mechanisms for moving items include changing location field, generating pull lists, etc. In addition, utility provides means to revert items to original location after a set period of time, and/or based on other criteria."
+DA-5,R18,"The system generates a list of items that have been in-transit for more than X days (X configurable), per branch and per system.  The report would merge the transit to and transit from into one report for ease of front-line staff use."
+DA-5,R19,"The system provides a utility and reports for identifying item records to purge, based on customizable criteria such as: an item has been in status ""missing"" for more than X months an item has status ""discard/weed"". The system has a report to assist in the conversion of items from one status to another. The system provides a last copy report that would single out a library system's last copies, to assist catalogers who need to edit WorldCat entries. The system provides a quick effective method of deleting volume entries along with copy entries, as well as records with no items attached."
+DA-5,R20,"Ability to count and track record deletions (e.g. item records, patron records) per location and per system."
+DA-5,R21,"Queries and reports can be limited or grouped by various patron characteristics, including: age range, zip code, county of residence, home branch, patron type, and preferred language."
+DA-5,R22,"The system generates a list of patrons with no circulation or electronic activity in the last X days (X configurable).  List should be configurable to System, Home Library, County, etc."
+DA-5,R23,Transaction history is maintained for X days (X is configurable) monthly and annual aggregate information is maintained indefinitely.
+DA-5,R24,"Transactions can be grouped by hour, terminal, branch, and system. Transactions include check-ins, check-outs, fines collected, patron registrations, etc., and can be queried by all transactions or by type of transaction."
+DA-5,R25,"The system counts all types of check-in individually and cumulatively: book-drop, by terminal, by user or self-service."
+DA-5,R26,"The system counts all types of check-out individually and cumulatively: staff check-out, self check-out, staff renewal, self checkout renewal, online renewal, OPAC renewal."
+DA-5,R27,"The system counts all hold requests, including how the hold was placed: at a staff desk, at a public computer inside the library, or remotely."
+DA-5,R28,"The system can generate a report of transactions (holds placed, holds filled, and check-outs) per patron, per library, per selected group o libraries, per system, per county. The system displays the number of check-outs and placed holds per patron. Holds are subtotaled by type, e.g. active, frozen, and frozen-until holds."
+DA-5,R29,"The system can generate a report of the value of items (based on data in item record) in the entire collection or a portion. Example: staff can obtain value of all items with status of longoverdue, or value of all dvds in children's collection, or value of entire collection."
+DA-5,R30,"All reports and data archiving must comply with standard accounting practice and state, county, and municipal auditing requirements."
+DA-5,R31,"Fines, charges, waivers, and ecommerce transactions are attached to patron and item records. System tracks fines waived and payments made per library. Financial information can be updated easily. As an example, a staff user can easily query patron accounts with balances greater than X dollars."
+DA-5,R32,"The system provides financial reports including: patron account balances by patron, home library, and system fines and charges accrued per time period (e.g. last twelve months, YTD, last month) and per type of charge (overdue fines, damaged item charges, lost item charges, etc.) fines waived per time period and per branch payments made per time period and per payment method (e.g. staff desk, self-check station, OPAC)."
+DA-5,R33,"The system maintains a ledger of patron payments, including which charges payments are applied to, to facilitate reconciliation."
+DA-5,R34,"After the software design phase, a mockup will be built to show the functions and operations of the product. Later, an executable product with primary functions will be implemented."
+DA-5,R35,"It is assumed that every team member has basic knowledge of Programming, Software Engineering, and Database."
+DA-5,R36,Each subphase will have a team leader. This person will deliver a work schedule with weekly goals at the beginning of each subphase. 
+DA-5,R37,"Used an existing template to structure the document. Added meeting minutes, project deliverables, references, and team members."
+DA-5,R38,"Fixed up the formatting and table of contents, added the template reference."
+DA-5,R39,"The diagram designer is in charge of designing the diagrams for the project documentation. This includes UML or diagrams for the prototype, process diagrams for management plans, and KAOS diagrams for documenting the requirements in graphical form."
+DA-5,R40,"Ways to avoid scope creep are to develop change control procedures, have good designs and specifications to start, good communication, develop good software development process (avoiding agile software development)."
+DA-5,R41,Be careful of “scope creep” which are uncontrolled changes.  Most large projects fall victim to scope creep. Scope creep often results in cost overrun.
+DA-5,R42,"The major technology that you rely upon could possibly fail. These major technology risks are things like the Google phone, Android software and/or algorithms, etc."

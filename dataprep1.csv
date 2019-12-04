@@ -1,0 +1,155 @@
+0
+user submit job associate deadline cost execution time
+user query cluster establish cost unit time submit job
+user monitor status submit job
+user cancel job submit
+user check credit balance
+user check usage history
+user check status node cluster
+user check usage pattern history cluster
+user check status submit job
+user check load node cluster
+user alters cost structure cluster
+user alters schedule policy cluster
+user take photo new student
+development process follow rational unified process rup approach
+sdms developed waterfall process model
+objective project develop meeting scheduler product organized routine allows u concentrate core element different phase easily efficiently
+web tier deal presentation logic page rendering
+eis tier responsible storing user profile ride advertisement
+runtime pattern applied
+development done extra application server
+application deployed application server working cluster future
+application server ibm server running jboss application server
+database server ibm server running mysql server
+application server database server redundancy using mirroring raid mode
+workstation run linux use eclipse platform development
+system administrator must able deactivate reactivate student account login
+system administrator must able force sending new password student via email
+system administrator must able change student detail
+student register system fill detail forward choose projectsupervisor
+student change detail information incorrect telephone number
+student change login password time security reason
+student request password heshe forgotten password
+staff view detail student
+certain staff may designated unit cohort coordinator change detail student unit project cohort
+unit cohort coordinator change student detail incorrect information
+unit cohort coordinator view student information monitor progress
+unit cohort coordinator list employee request personal development program
+unit cohort coordinator reset student password required
+system administrator backup mail server course registration regularly
+system administrator reset student password required
+administration staff create monthly accounting report
+administration staff make school announcement
+model encompasses following activity system engineering requirement analysis software design implementation testing requirement analysis highly emphasized
+sdms developed waterfall process model
+team consists member member involved subphase project team leader
+team crutch developing software application android cell phone mitigate communication barrier faced people deficiency
+constant involvement end usersbeta user developer continuously monitor find requirement gap
+careful “ scope creep ” uncontrolled change large project fall victim scope creep scope creep often result cost overrun
+design pattern used create cps mvc model view controller design pattern
+mvc design patter clearly separated web application ’ behavior presentation control
+archive administrator create new client space
+client administrator manage role client
+archive administrator access document
+client administrator view role
+client administrator canï¿½t read content document
+client administrator deleted
+end user multiple role time
+end user person role
+authenticated end user client server access phrased urcar urcar document space
+end user access phrased urcar urcar document space client
+end user view assigned right assigned role
+role managed one role
+role inherits static right role manages
+role set possibly empty person role assigned
+role owns set document sda
+role set right assigned
+archive administrator limit available client space
+role canï¿½t deleted exists document owned role
+end user predefined period time delegate role another person role
+role log assignment right expiration right logged
+role log delegation expiration delegation logged
+role right assign roleright subordinate role
+role right remove roleright subordinate role
+role right create subordinate role
+role right read view role
+role right update subordinate role
+role right delete subordinate role
+role deleted manages subordinate role
+role right couple person role subordinate role
+role right decouple person role subordinate role
+role right assign document right document owns another role
+role right take document right document owns another role
+role upload file document space associated role
+role download file document space associated role
+role update right update file document space associated role
+role delete right delete file document space associated role
+document sda owned exactly one role
+role owns document hand ownership another role
+user start chating user clicking chat menu
+documentation also updated meeting team leader adjust weekly goal checking progress subphase ensure subphase meet requirement deliverable time
+software documentation uml documentation rational rose project document microsoft office
+added project overview project organization
+design pattern used create cps mvc model view controller design pattern
+mvc design patter clearly separated web application ’ behavior presentation control
+business tier deal core functionality system search post match ride manage profile
+eis tier responsible storing user profile ride advertisement
+runtime pattern applied
+deployment development server fails use one operational server urgent problem fixed
+one operational server fails two deployment server replacement
+development workstation fail spare workstation case workstation failure
+user see detailed information sgp
+user apply sgp
+user application update form sgp
+user update personal data
+user upload application related document
+user take english proficiency test
+added project overview project organization
+edited document template project organization “ work element schedule budget ”
+edited project organization managerial process document template also revised
+added risk management section
+design pattern used create cps mvc model view controller design pattern
+mvc design patter clearly separated web application ’ behavior presentation control
+system support require streamlined staff login method example staff member swipe card log terminal staff member log terminal using hisher individual login password
+system administrator create reliable report template available staff run modified staff person particular need change template could done without comprising result administrator limit filter display field altered certify dependable output example frontline staff could set call number range weeding report add remove designated display field pick list ’ alter template display deleted item
+system provides distinct finegrained permission level limiting create clone report permission easy administer system administrator create shared folder allow disallow staff run specific report andor run ad hoc report specific set data
+system provides userfriendly interface designing query record type staff select field query select value picklist possible value select regular expression dropdown menu use full range boolean operator administrator control staff access table field
+system provides predefined report consumption library board consumer report providing basic statistic like required georgia annual report application state aid activity report indicate traffic volume use display statistic checkout checkins hold placed hold filled possible crosstabulated per terminal per branch per library system per hour per patron age range per patron type per patron location
+transaction archived form protects patron privacy defined state law providing useful demographic statistic
+example periodic report bibliographic record hold item checked x day itemlevel hold item invalid item type intransit item outstanding hold item intransit x day item last copy thesystem item long call number missing item bibliographic record item record patron invalid home library
+system provides query selection along result
+ability see report queue report waiting run
+system must able support reporting definition described appendix
+system must able support finegrained report requirement described appendix b
+system produce statistic used understand predict patron behavior use material example quickly particular book returned average likely particular book renewed percent checkout particular branch renewal
+ability report volume material given library point time based new acquisition item shelf item circulation ability break volume category eg total item library number hold number adult fiction number board book etc
+system provides interface showing capacity branch defined pine
+genre format material ability compare percentage total circulation percentage collection percentage total shelf space genreformat comprises ability report per library per system
+ability control inventory uncataloged material paperback book childrens board book support quick distribution minimal branch labor ability identify material used ability count transaction include circulation statistic report
+system provides utility transferring batch item branch used example move book mobile library outreach program collection justintime warehouse utility includes ability query candidate material ability save query repeated use ability manually select title query result ability change record selected item move new location mechanism moving item include changing location field generating pull list etc addition utility provides mean revert item original location set period time andor based criterion
+system generates list item intransit x day x configurable per branch per system report would merge transit transit one report ease frontline staff use
+system provides utility report identifying item record purge based customizable criterion item status missing x month item status discardweed system report assist conversion item one status another system provides last copy report would single library system last copy assist cataloger need edit worldcat entry system provides quick effective method deleting volume entry along copy entry well record item attached
+ability count track record deletion eg item record patron record per location per system
+query report limited grouped various patron characteristic including age range zip code county residence home branch patron type preferred language
+system generates list patron circulation electronic activity last x day x configurable list configurable system home library county etc
+transaction history maintained x day x configurable monthly annual aggregate information maintained indefinitely
+transaction grouped hour terminal branch system transaction include checkins checkout fine collected patron registration etc queried transaction type transaction
+system count type checkin individually cumulatively bookdrop terminal user selfservice
+system count type checkout individually cumulatively staff checkout self checkout staff renewal self checkout renewal online renewal opac renewal
+system count hold request including hold placed staff desk public computer inside library remotely
+system generate report transaction hold placed hold filled checkout per patron per library per selected group library per system per county system display number checkout placed hold per patron hold subtotaled type eg active frozen frozenuntil hold
+system generate report value item based data item record entire collection portion example staff obtain value item status longoverdue value dvd childrens collection value entire collection
+report data archiving must comply standard accounting practice state county municipal auditing requirement
+fine charge waiver ecommerce transaction attached patron item record system track fine waived payment made per library financial information updated easily example staff user easily query patron account balance greater x dollar
+system provides financial report including patron account balance patron home library system fine charge accrued per time period eg last twelve month ytd last month per type charge overdue fine damaged item charge lost item charge etc fine waived per time period per branch payment made per time period per payment method eg staff desk selfcheck station opac
+system maintains ledger patron payment including charge payment applied facilitate reconciliation
+software design phase mockup built show function operation product later executable product primary function implemented
+assumed every team member basic knowledge programming software engineering database
+subphase team leader person deliver work schedule weekly goal beginning subphase
+used existing template structure document added meeting minute project deliverable reference team member
+fixed formatting table content added template reference
+diagram designer charge designing diagram project documentation includes uml diagram prototype process diagram management plan kaos diagram documenting requirement graphical form
+way avoid scope creep develop change control procedure good design specification start good communication develop good software development process avoiding agile software development
+careful “ scope creep ” uncontrolled change large project fall victim scope creep scope creep often result cost overrun
+major technology rely upon could possibly fail major technology risk thing like google phone android software andor algorithm etc
